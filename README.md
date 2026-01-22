@@ -130,7 +130,7 @@ Make sure the following are installed on your system:
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/Trayz72/Angular-and-Springboot-Web-Application.git
 cd InternTask
 
 # Start backend
