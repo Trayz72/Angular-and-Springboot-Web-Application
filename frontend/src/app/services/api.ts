@@ -7,7 +7,7 @@ import { inject, Injectable } from '@angular/core';
 export class Api {
 
   private http = inject(HttpClient);
-  private baseUrl = 'http://localhost:8080';
+  private baseUrl = '';
 
   getHello() {
     return this.http.get(this.baseUrl + '/hello', {
