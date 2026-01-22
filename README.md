@@ -139,6 +139,7 @@ cd backend
 
 # Start frontend (new terminal)
 cd frontend
+npm install
 ng serve
 ```
 
