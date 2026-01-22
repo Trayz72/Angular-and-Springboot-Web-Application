@@ -1,4 +1,4 @@
-# InternTask – Full Stack Web Application
+# Full Stack Web Application
 
 This repository contains a **full-stack web application** built with a **modern Angular frontend** and a **Spring Boot backend**, developed on **Ubuntu Linux**.
 
